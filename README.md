@@ -1,6 +1,7 @@
 # emoji-cheat-sheet
 
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDinor2705%2Femoji-cheat-sheet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDinor2705%2Femoji-cheat-sheet?ref=badge_shield)
 
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
@@ -1582,3 +1583,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#github-custom-emoji) | :shipit: | `:shipit:` | :suspect: | `:suspect:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :trollface: | `:trollface:` | | | [top](#table-of-contents) |
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDinor2705%2Femoji-cheat-sheet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDinor2705%2Femoji-cheat-sheet?ref=badge_large)
